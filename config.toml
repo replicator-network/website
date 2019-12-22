@@ -1,6 +1,6 @@
 baseurl = "https://replicator.network" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
-title = "👾replicator.network" # Homepage title and page title suffix
+title = "Replicator Network 👾" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
 copyright = "Copyright &copy; Replicator Network. Licensed under <a target=\"_blank\" rel=\"external noopener license\" href=\"https://creativecommons.org/licenses/by-nd/4.0/\">CC-BY-ND-4.0</a>." # Optional, remove to suppress copyright notices
 
