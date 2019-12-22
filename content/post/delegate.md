@@ -15,7 +15,10 @@ images = [
   license = "cc-by-nc-sa-4.0"
 +++
 
-Replicator Network's validator operator address is `cosmosvaloper1et77usu8q2hargvyusl4qzryev8x8t9wwqkxfs`.
+Replicator Network address: `cosmosvaloper1et77usu8q2hargvyusl4qzryev8x8t9wwqkxfs`
+
+Commission rate: `0%`
+
 
 Atoms can be staked on Cosmos Hub by delegating to Replicator Network. 
 
