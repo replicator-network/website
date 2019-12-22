@@ -10,23 +10,24 @@ images = [
   "https://source.unsplash.com/collection/983219/1600x900"
 ] # overrides site-wide open graph image
 [[copyright]]
-  owner = "👾replicator.network"
+  owner = "Replicator Network 👾"
   date = "2019"
   license = "cc-by-nc-sa-4.0"
 +++
 
 Replicator Network address: `cosmosvaloper1et77usu8q2hargvyusl4qzryev8x8t9wwqkxfs`
 
-Commission rate: `0%`
+Commission rate: 0%
 
-
-Atoms can be staked on Cosmos Hub by delegating to Replicator Network. 
-
-Using [`gaiacli`](https://hub.cosmos.network/docs/gaiacli.html):
+Delegate using [`gaiacli`](https://hub.cosmos.network/docs/gaiacli.html):
 ```sh
 $ gaiacli tx staking delegate \
 cosmosvaloper1et77usu8q2hargvyusl4qzryev8x8t9wwqkxfs 10000uatom \
 --from <delegatorKeyName> --gas auto --gas-prices 0.025uatom
 ```
+
+{{< hackcss-alert type="info" >}}
+<strong>Tip:</strong> You may need to add `--gas-adjustment 1.5` if the above fails due to insufficient gas. See {{< external href="https://hub.cosmos.network/docs/delegator-guide-cli.html#a-note-on-gas-and-fees" text="A Note on Gas and Fees" />}}
+{{< /hackcss-alert >}}
 
 <!--more-->
