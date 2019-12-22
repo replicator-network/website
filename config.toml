@@ -39,3 +39,14 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 [params.modules.fractal_forest]
   enabled = true # Optional, set false to disable module
   decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
+
+[[params.layout.home.section]]
+  type = "about"
+  weight = 1
+
+[[params.layout.home.section]]
+  type = "post"
+  weight = 2
+
+[params.layout.home]
+  hide_blog = true
