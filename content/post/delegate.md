@@ -1,5 +1,5 @@
 +++
-title = "Delegate to Replicator Network"
+title = "Delegate to Replicator Network on Cosmos Hub"
 date = 2019-12-21T13:35:44-08:00
 description = "How to stake Atoms on Cosmos Hub by delegating to Replicator Network."
 draft = false
