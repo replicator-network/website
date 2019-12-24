@@ -18,7 +18,7 @@ We operate multi-region, highly secure, and highly available validators. We know
 {{< hackcss-grid >}}
   {{< hackcss-cell class="-4of12" >}}
     {{< hackcss-card header="Shane Vitarana" >}}
-      <img src="/shane.png" width="216" height="216" style="margin-bottom: 10px"/>
+      <img src="/shane.png" width="216" height="216" style="margin-bottom: 10px; max-width: 100%; max-height: 100%; display: block; margin-left: auto; margin-right: auto; vertical-align: middle"/>
       <p style="text-align: center;">he protec</p>
       <br />
       {{< external rel="next" href="https://twitter.com/shanev" >}}
@@ -34,7 +34,7 @@ We operate multi-region, highly secure, and highly available validators. We know
   {{< /hackcss-cell >}}
   {{< hackcss-cell class="-4of12" >}}
     {{< hackcss-card header="Jorge Hernandez" >}}
-      <img src="/jorge.jpg" width="216" height="216" style="margin-bottom: 10px"/>
+      <img src="/jorge.jpg" width="216" height="216" style="margin-bottom: 10px; max-width: 100%; max-height: 100%; display: block; margin-left: auto; margin-right: auto; vertical-align: middle"/>
       <p style="text-align: center;">he attac</p>
       <br />
       {{< external rel="next" href="https://twitter.com/jhernandezb_" >}}
