@@ -19,7 +19,9 @@ Replicator Network address: `cosmosvaloper1et77usu8q2hargvyusl4qzryev8x8t9wwqkxf
 
 Commission rate: 0%
 
-Delegate using [gaiacli](https://hub.cosmos.network/docs/gaiacli.html):
+{{< external "https://app.lunie.io/validators/cosmosvaloper1et77usu8q2hargvyusl4qzryev8x8t9wwqkxfs" "Delegate with Lunie" />}}
+
+Delegate with [gaiacli](https://hub.cosmos.network/docs/gaiacli.html):
 
 {{< hackcss-alert >}}
 {{< highlight shell >}}
