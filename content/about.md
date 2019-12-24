@@ -11,7 +11,7 @@ draft = false
 
 ![image](https://vignette.wikia.nocookie.net/stargate/images/3/31/Replicator.JPG/revision/latest?cb=20080425065649)
 
-We operate multi-region, highly secure, and highly available validators. We know a lot about computers. 
+We operate multi-region, highly secure, and highly available validators. We know computers. 
 
 <!--more--> 
 
@@ -19,6 +19,8 @@ We operate multi-region, highly secure, and highly available validators. We know
   {{< hackcss-cell class="-4of12" >}}
     {{< hackcss-card header="Shane Vitarana" >}}
       <img src="/shane.png" width="216" height="216" style="margin-bottom: 10px"/>
+      <p style="text-align: center;">he protec</p>
+      <br />
       {{< external rel="next" href="https://twitter.com/shanev" >}}
         {{< hackcss-button isghost="true" type="info" isblock="true" >}}
             <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
@@ -33,6 +35,8 @@ We operate multi-region, highly secure, and highly available validators. We know
   {{< hackcss-cell class="-4of12" >}}
     {{< hackcss-card header="Jorge Hernandez" >}}
       <img src="/jorge.jpg" width="216" height="216" style="margin-bottom: 10px"/>
+      <p style="text-align: center;">he attac</p>
+      <br />
       {{< external rel="next" href="https://twitter.com/jhernandezb_" >}}
         {{< hackcss-button isghost="true" type="info" isblock="true" >}}
             <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
