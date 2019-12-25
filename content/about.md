@@ -33,7 +33,7 @@ We operate multi-region, highly secure, and highly available validators.
   {{< hackcss-cell class="-2of12" >}}
   {{< /hackcss-cell >}}
   {{< hackcss-cell class="-4of12" >}}
-    {{< hackcss-card header="Jorge Hernandez" >}}
+    {{< hackcss-card header="Jorge Hernández" >}}
       <img class="center" src="/jorge.jpg" width="216" height="216" />
       <p style="text-align: center;">he attac</p>
       <br />
