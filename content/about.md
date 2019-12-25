@@ -11,7 +11,7 @@ draft = false
 
 ![image](https://vignette.wikia.nocookie.net/stargate/images/3/31/Replicator.JPG/revision/latest?cb=20080425065649)
 
-We operate multi-region, highly secure, and highly available validators. We know computers. 
+We operate multi-region, highly secure, and highly available validators.
 
 <!--more--> 
 
