@@ -73,5 +73,3 @@ We operate multi-region, highly secure, and highly available validators.
 {{< external "https://gaia.bigdipper.live/validator/cosmosvaloper1k253xp3xvk3kdfuty204lc9lmtcyl9zgge63d3" "gaia-13007 testnet (replicator.network)" />}}
 <br />
 {{< external "https://gaia.bigdipper.live/validator/cosmosvaloper14q6agytpqj0khyhzgcrft7y6xyw8azhe75x5hx" "gaia-13007 testnet (the-mandalorian)" />}}
-
----
