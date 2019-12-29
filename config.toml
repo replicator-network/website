@@ -27,7 +27,7 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   hide_author = false # Optional, set true to hide author name on posts
   disable_csp = false # Optional, set true to disable content security policy
   images = [
-    "https://source.unsplash.com/collection/983219/2000x1322"
+    "https://vignette.wikia.nocookie.net/stargate/images/3/31/Replicator.JPG/revision/latest?cb=20080425065649"
   ] # Suggested, controls default Open Graph images
 
 [params.layout.menu.main]
