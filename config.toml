@@ -21,8 +21,8 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
     noClasses = false # Required for custom syntax highlighting
 
 [params]
-  description = "" # Suggested, controls default description meta
-  author = "" # Optional, controls author name display on posts
+  description = "We operate multi-region, highly secure, and highly available validators."
+  author = "Shane Vitarana" # Optional, controls author name display on posts
   hide_author = false # Optional, set true to hide author name on posts
   disable_csp = false # Optional, set true to disable content security policy
   images = [
