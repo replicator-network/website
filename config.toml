@@ -2,7 +2,6 @@ baseurl = "https://replicator.network" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
 title = "Replicator Network 👾" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
-copyright = "Copyright &copy; Replicator Network. Licensed under <a target=\"_blank\" rel=\"external noopener license\" href=\"https://creativecommons.org/licenses/by-nd/4.0/\">CC-BY-ND-4.0</a>." # Optional, remove to suppress copyright notices
 
 # Controls default theme and theme components
 theme = [
@@ -22,8 +21,8 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
     noClasses = false # Required for custom syntax highlighting
 
 [params]
-  description = "" # Suggested, controls default description meta
-  author = "" # Optional, controls author name display on posts
+  description = "We operate multi-region, highly secure, and highly available validators."
+  author = "Shane Vitarana" # Optional, controls author name display on posts
   hide_author = false # Optional, set true to hide author name on posts
   disable_csp = false # Optional, set true to disable content security policy
   images = [
