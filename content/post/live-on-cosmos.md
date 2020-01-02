@@ -7,7 +7,7 @@ toc = false
 categories = ["cosmos"]
 tags = ["atom"]
 images = [
-  "https://source.unsplash.com/collection/983219/1600x900"
+  "https://vignette.wikia.nocookie.net/stargate/images/3/31/Replicator.JPG/revision/latest?cb=20080425065649"
 ] # overrides site-wide open graph image
 [[copyright]]
   owner = "Replicator Network 👾"
